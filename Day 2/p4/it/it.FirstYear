@@ -1,0 +1,6 @@
+package it;
+public class it.FirstYear{
+	public void display(){
+		System.out.println("Hii from IT first year");
+	}
+}
